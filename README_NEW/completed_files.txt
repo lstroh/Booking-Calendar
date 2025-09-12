@@ -7,3 +7,4 @@ includes/wpbc-include.php
 includes/page-bookings/bookings__actions.php
 includes/page-bookings/bookings__listing.php
 core/lib/wpbc-ajax.php
+core/lib/wpdev-booking-class.php
