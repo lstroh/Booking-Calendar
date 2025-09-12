@@ -6,3 +6,4 @@ core/wpbc-core.php
 includes/wpbc-include.php
 includes/page-bookings/bookings__actions.php
 includes/page-bookings/bookings__listing.php
+core/lib/wpbc-ajax.php
