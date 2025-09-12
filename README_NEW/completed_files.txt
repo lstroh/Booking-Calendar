@@ -1,0 +1,8 @@
+wpdev-booking.php
+core/wpbc_functions.php
+core/wpbc-dates.php
+core/wpbc.php
+core/wpbc-core.php
+includes/wpbc-include.php
+includes/page-bookings/bookings__actions.php
+includes/page-bookings/bookings__listing.php
