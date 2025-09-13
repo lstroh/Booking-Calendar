@@ -19,3 +19,7 @@ core/wpbc-js.php
 js/admin.js
 core/wpbc-js-vars.php
 js/client.js
+_dist/all/_out/wpbc_all.js
+includes/_capacity/create_booking.php
+core/admin/wpbc-sql.php
+core/wpbc-activation.php
