@@ -8,3 +8,14 @@ includes/page-bookings/bookings__actions.php
 includes/page-bookings/bookings__listing.php
 core/lib/wpbc-ajax.php
 core/lib/wpdev-booking-class.php
+core/lib/wpbc-calendar-legend.php
+core/admin/page-settings.php
+core/any/class-admin-settings-api.php
+core/admin/api-settings.php
+core/any/admin-bs-ui.php
+includes/_toolbar_ui/flex_ui_elements.php
+core/wpbc-css.php
+core/wpbc-js.php
+js/admin.js
+core/wpbc-js-vars.php
+js/client.js
