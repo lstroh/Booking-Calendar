@@ -23,3 +23,14 @@ _dist/all/_out/wpbc_all.js
 includes/_capacity/create_booking.php
 core/admin/wpbc-sql.php
 core/wpbc-activation.php
+core/index.php
+core/form_parser.php
+core/wpbc-debug.php
+core/wpbc-dev-api.php
+core/wpbc-emails.php
+core/wpbc-translation.php
+core/wpbc_functions_dates.php
+core/class/wpbc-class-welcome.php
+core/any/class-admin-menu.php
+core/admin/page-new.php
+includes/page-availability/availability__page.php
