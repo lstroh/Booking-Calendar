@@ -34,3 +34,12 @@ core/class/wpbc-class-welcome.php
 core/any/class-admin-menu.php
 core/admin/page-new.php
 includes/page-availability/availability__page.php
+core/wpbc_welcome.php
+core/any/class-admin-menu.php
+core/lib/wpbc-booking-new.php
+core/any/api-emails.php
+core/lib/index.php
+core/lib/wpbc-cron.php
+core/lib/wpdev-booking-widget.php
+core/admin/page-email-approved.php
+core/admin/page-email-deleted.php
