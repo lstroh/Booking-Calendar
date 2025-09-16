@@ -43,3 +43,13 @@ core/lib/wpbc-cron.php
 core/lib/wpdev-booking-widget.php
 core/admin/page-email-approved.php
 core/admin/page-email-deleted.php
+core/any/activation.php
+core/any/class-css-js.php
+core/any/index.php
+core/admin/page-email-deny.php
+core/admin/page-email-new-admin.php
+core/admin/page-email-new-visitor.php
+core/admin/page-email-trash.php
+core/admin/page-ics-export.php
+core/admin/page-ics-general.php
+core/admin/page-ics-import.php
