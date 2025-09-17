@@ -53,3 +53,17 @@ core/admin/page-email-trash.php
 core/admin/page-ics-export.php
 core/admin/page-ics-general.php
 core/admin/page-ics-import.php
+core/admin/page-import-gcal.php
+core/admin/wpbc-dashboard.php
+core/admin/page-timeline.php
+core/admin/wpbc-gutenberg.php
+core/admin/wpbc-settings-functions.php
+core/admin/wpbc-toolbars.php
+core/any/css/admin-br-table.css
+core/any/css/admin-listing-table.css
+core/any/css/admin-menu.css
+core/any/css/admin-support.css
+core/any/css/admin-toolbar.css
+core/any/css/index.php
+core/any/css/settings-page.css
+core/any/css/wpbc_flextable.css
