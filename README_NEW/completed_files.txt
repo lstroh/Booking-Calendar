@@ -91,3 +91,14 @@ core/timeline/flex-timeline.php
 core/timeline/v2/wpbc-class-timeline_v2.php
 core/timeline/v2/_out/timeline_v2.1.css
 core/timeline/v2/_out/timeline_v2.1.min.css
+core/timeline/v2/_out/timeline_v2.js
+core/timeline/v2/_src/timeline_v2.1.css
+core/timeline/v2/_src/timeline_v2.js
+css/admin-skin.css
+css/admin.css
+css/calendar.css
+css/client.css
+css/modal.css
+css/wpbc-gutenberg.css
+css/wpbc_time-selector.css
+css/wpbc_ui_both.css
