@@ -109,3 +109,17 @@ includes/page-availability/availability__toolbar_ui.php
 includes/page-availability/_out/availability_page.css
 includes/page-availability/_out/availability_page.js
 includes/page-resource-free/page-resource-free.php
+includes/page-availability/_out/availability_page.min.css
+includes/page-availability/_src/availability_page.css
+includes/page-availability/_src/availability_page.js
+js/wpbc_times.js
+css/wpbc_time-selector.css
+js/wpbc_tinymce_btn.js
+js/user-data-saver.js
+includes/page-settings-form-options/page-settings-form-options.php
+js/wpbc_phone_validator.js
+js/wpbc-gutenberg.js
+includes/page-settings-color-themes/page-settings-color-themes.php
+css/skins/multidays.css
+js/datepick/jquery.datepick.wpbc.9.0.js
+vendors/
