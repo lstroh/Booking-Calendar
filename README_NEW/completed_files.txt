@@ -21,7 +21,7 @@ core/wpbc-js-vars.php
 js/client.js
 _dist/all/_out/wpbc_all.js
 includes/_capacity/create_booking.php
-core/admin/wpbc-sql.php
+core/admin/wpbc_sql.php
 core/wpbc-activation.php
 core/index.php
 core/form_parser.php
@@ -102,3 +102,10 @@ css/modal.css
 css/wpbc-gutenberg.css
 css/wpbc_time-selector.css
 css/wpbc_ui_both.css
+includes/page-availability/availability__activation.php
+includes/page-availability/availability__class.php
+includes/page-availability/availability__resource.php
+includes/page-availability/availability__toolbar_ui.php
+includes/page-availability/_out/availability_page.css
+includes/page-availability/_out/availability_page.js
+includes/page-resource-free/page-resource-free.php
