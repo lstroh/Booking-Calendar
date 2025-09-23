@@ -123,3 +123,8 @@ includes/page-settings-color-themes/page-settings-color-themes.php
 css/skins/multidays.css
 js/datepick/jquery.datepick.wpbc.9.0.js
 vendors/
+includes/page-bookings/bookings__page.php
+includes/page-bookings/bookings__sql.php
+includes/page-bookings/booking_listing_row.php
+includes/page-bookings/booking_action/booking_cost.php
+includes/page-bookings/booking_action/booking_note.php
