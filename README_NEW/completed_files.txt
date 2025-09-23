@@ -128,3 +128,6 @@ includes/page-bookings/bookings__sql.php
 includes/page-bookings/booking_listing_row.php
 includes/page-bookings/booking_action/booking_cost.php
 includes/page-bookings/booking_action/booking_note.php
+includes/page-bookings/booking_action/change_locale.php
+includes/page-bookings/booking_action/change_resource.php
+includes/page-bookings/booking_action/duplicate_booking.php
