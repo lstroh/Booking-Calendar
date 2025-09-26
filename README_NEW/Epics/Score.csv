@@ -10,3 +10,9 @@ Option for clients to upload photos when booking	Option for clients to upload ph
 		Consent & Compliance	8
 		User Experience	1
 		Notifications & Integration	6
+Ability to split a job into multiple bookings	Ability to split a job into multiple bookings	Job Definition	8
+		Scheduling Logic	9
+		Data Structure & Storage	10
+		User Experience	7
+		Payment & Invoicing	2
+		Notifications & Rescheduling	8
