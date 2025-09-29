@@ -16,3 +16,15 @@ Ability to split a job into multiple bookings	Ability to split a job into multip
 		User Experience	7
 		Payment & Invoicing	2
 		Notifications & Rescheduling	8
+"Parallel booking support (e.g., consultation during long job.md"	"Parallel booking support (e.g., consultation during long job.md"	Core Functionality	2
+		Scheduling Rules	2
+		User Experience	2
+		Payment & Invoicing	1
+		Admin Controls	2
+		Notifications	2
+Automated booking confirmations and reminders	Automated booking confirmations and reminders	Trigger Points	7
+		Message Content	10
+		 Delivery Channels	7
+		Admin Controls	6
+		Client Experience	5
+		Compliance	3
