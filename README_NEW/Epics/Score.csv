@@ -28,3 +28,21 @@ Automated booking confirmations and reminders	Automated booking confirmations an
 		Admin Controls	6
 		Client Experience	5
 		Compliance	3
+Cancellation and reschedule options for clients	Cancellation and reschedule options for clients	Client-Side Functionality	9
+		Admin-Side Controls	9
+		Notifications & Logs	9
+		Compliance & UX	5
+Two-way client messaging (reply via SMS/email/portal)	Two-way client messaging (reply via SMS/email/portal)	Messaging Channels	1
+		Conversation Management	1
+		Admin Controls	5
+		Notifications	4
+		Security & Compliance	5
+"Receive auto-updates (on the way, arrived, delayed, completed)” into verifiable items"	"Receive auto-updates (on the way, arrived, delayed, completed)” into verifiable items"	Trigger Events	5
+		Client Notifications	6
+		Admin Controls	5
+		Conversation History	1
+		Reliability & Compliance	3
+Right to opt out of marketing but still receive operational updates	Right to opt out of marketing but still receive operational updates	Client Opt-Out Options	4
+		Message Categorisation	5
+		Admin Controls	1
+		Compliance & Transparency	1
