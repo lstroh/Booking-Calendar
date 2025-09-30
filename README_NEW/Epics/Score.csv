@@ -1,48 +1,64 @@
-Epic	Feature	Item	
-User Experience ? Booking Flow	Online booking form with fixed + customizable service options	Service Selection	9
-		Time Selection	10
-		Multi-Slot Jobs	8
-		Booking Storage & Admin	10
-		Integration & Dependencies	9
-		UX Considerations	9
-Option for clients to upload photos when booking	Option for clients to upload photos when booking	Upload Functionality	1
-		Storage & Access	1
-		Consent & Compliance	8
-		User Experience	1
-		Notifications & Integration	6
-Ability to split a job into multiple bookings	Ability to split a job into multiple bookings	Job Definition	8
-		Scheduling Logic	9
-		Data Structure & Storage	10
-		User Experience	7
-		Payment & Invoicing	2
-		Notifications & Rescheduling	8
-"Parallel booking support (e.g., consultation during long job.md"	"Parallel booking support (e.g., consultation during long job.md"	Core Functionality	2
-		Scheduling Rules	2
-		User Experience	2
-		Payment & Invoicing	1
-		Admin Controls	2
-		Notifications	2
-Automated booking confirmations and reminders	Automated booking confirmations and reminders	Trigger Points	7
-		Message Content	10
-		 Delivery Channels	7
-		Admin Controls	6
-		Client Experience	5
-		Compliance	3
-Cancellation and reschedule options for clients	Cancellation and reschedule options for clients	Client-Side Functionality	9
-		Admin-Side Controls	9
-		Notifications & Logs	9
-		Compliance & UX	5
-Two-way client messaging (reply via SMS/email/portal)	Two-way client messaging (reply via SMS/email/portal)	Messaging Channels	1
-		Conversation Management	1
-		Admin Controls	5
-		Notifications	4
-		Security & Compliance	5
-"Receive auto-updates (on the way, arrived, delayed, completed)” into verifiable items"	"Receive auto-updates (on the way, arrived, delayed, completed)” into verifiable items"	Trigger Events	5
-		Client Notifications	6
-		Admin Controls	5
-		Conversation History	1
-		Reliability & Compliance	3
-Right to opt out of marketing but still receive operational updates	Right to opt out of marketing but still receive operational updates	Client Opt-Out Options	4
-		Message Categorisation	5
-		Admin Controls	1
-		Compliance & Transparency	1
+Epic	Feature	Item				
+User Experience ? Booking Flow	Online booking form with fixed + customizable service options	Service Selection	9	1		
+		Time Selection	10	1		
+		Multi-Slot Jobs	8	1		
+		Booking Storage & Admin	10	1		
+		Integration & Dependencies	9	1		
+		UX Considerations	9	1		
+Option for clients to upload photos when booking	Option for clients to upload photos when booking	Upload Functionality	1	0		
+		Storage & Access	1	0		
+		Consent & Compliance	8	1		
+		User Experience	1	0		
+		Notifications & Integration	6	1		
+Ability to split a job into multiple bookings	Ability to split a job into multiple bookings	Job Definition	8	1		
+		Scheduling Logic	9	1		
+		Data Structure & Storage	10	1		
+		User Experience	7	1		
+		Payment & Invoicing	2	0		
+		Notifications & Rescheduling	8	1		
+"Parallel booking support (e.g., consultation during long job.md"	"Parallel booking support (e.g., consultation during long job.md"	Core Functionality	2	0		
+		Scheduling Rules	2	0		
+		User Experience	2	0		
+		Payment & Invoicing	1	0		
+		Admin Controls	2	0		
+		Notifications	2	0		
+Automated booking confirmations and reminders	Automated booking confirmations and reminders	Trigger Points	7	1		
+		Message Content	10	1		
+		 Delivery Channels	7	1		
+		Admin Controls	6	1		
+		Client Experience	5	1		
+		Compliance	3	1		
+Cancellation and reschedule options for clients	Cancellation and reschedule options for clients	Client-Side Functionality	9	1		
+		Admin-Side Controls	9	1		
+		Notifications & Logs	9	1		
+		Compliance & UX	5	1		
+Two-way client messaging (reply via SMS/email/portal)	Two-way client messaging (reply via SMS/email/portal)	Messaging Channels	1	0		
+		Conversation Management	1	0		
+		Admin Controls	5	1		
+		Notifications	4	1		
+		Security & Compliance	5	1		
+"Receive auto-updates (on the way, arrived, delayed, completed)” into verifiable items"	"Receive auto-updates (on the way, arrived, delayed, completed)” into verifiable items"	Trigger Events	5	1		
+		Client Notifications	6	1		
+		Admin Controls	5	1		
+		Conversation History	1	0		
+		Reliability & Compliance	3	1		
+Right to opt out of marketing but still receive operational updates	Right to opt out of marketing but still receive operational updates	Client Opt-Out Options	4	1		
+		Message Categorisation	5	1		
+		Admin Controls	1	0		
+		Compliance & Transparency	1	0		
+"Admin dashboard for bookings, jobs, cancellations.md"	"Admin dashboard for bookings, jobs, cancellations.md"	Dashboard View	9	1	47	2.127659574
+		Job Management	9	1		
+		Cancellations	10	1		
+		Notifications & Logs	9	1		
+		UX & Navigation	9	1		
+Add buffer time	Add buffer time	Buffer Time Setup	2	0		
+		Scheduling & Availability	2	0		
+		Calendar & Dashboard	9	1		
+		Integration & Notifications	7	1		
+		Flexibility & Edge Cases	2	0		
+Two-way sync with	Two-way sync with	Integration Setup	7	1		
+		Two-Way Sync (Bookings ? External Calendar)	7	1		
+		Two-Way Sync (External Calendar ? Plugin)	9	1		
+		Conflict Handling & Permissions	9	1		
+		Performance & Reliability	8	1		
+		Privacy & Security	7	1		
