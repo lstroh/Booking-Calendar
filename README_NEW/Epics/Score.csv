@@ -62,3 +62,16 @@ Two-way sync with	Two-way sync with	Integration Setup	7	1
 		Conflict Handling & Permissions	9	1		
 		Performance & Reliability	8	1		
 		Privacy & Security	7	1		
+Calendar conflict resolution.md	Calendar conflict resolution.md	Conflict Detection	9	1		
+		Conflict Resolution Rules (System Settings)	3	1		
+		*Conflict Resolution Workflow (Admin Actions)	4.5	1		
+		User-Facing Behavior	8	1		
+		Integration with External Calendars	9	1		
+		Configuration & Flexibility	2	0		
+Event listeners update booking DB from external calendars	Event listeners update booking DB from external calendars	Calendar Event Sync Triggers	5.5	1		
+		Real-Time vs Scheduled Sync	7	1		
+		Database Update Behavior	8	1		
+		Conflict Handling	5	1		
+		Admin Controls & Visibility	9	1		
+		Error Handling	7	1		
+		Compliance & Security	5	1		
