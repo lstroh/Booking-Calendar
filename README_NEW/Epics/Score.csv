@@ -75,3 +75,25 @@ Event listeners update booking DB from external calendars	Event listeners update
 		Admin Controls & Visibility	9	1		
 		Error Handling	7	1		
 		Compliance & Security	5	1		
+Encrypted booking and payment data	Encrypted booking and payment data	Booking Data in Transit	5	1		
+		Booking Data at Rest	1	0		
+		Database Security	6	1		
+		Admin & API Access	7	1		
+		Compliance Alignment	1	0		
+Secure APIs for calendar and CRM integrations	Secure APIs for calendar and CRM integrations	Authentication & Authorization	1	0		
+		API Communication Security	4	1		
+		Scope & Least Privilege	1	0		
+		Token & Credential Management	3	1		
+		Error & Failure Handling	4	1		
+		Data Protection During API Sync	7	1		
+		Admin Controls	3	1		
+OAuth authentication for external calendars	OAuth authentication for external calendars	OAuth Flow Implementation	1	0		
+		Token Handling	3	1		
+		Scope & Permissions	1	0		
+		API Communication Security	7	1		
+		Error & Recovery Handling	4	1		
+		Admin Experience & Control	6	1		
+End-to-end encryption for two-way messaging	End-to-end encryption for two-way messaging	Encryption in Transit (Basic Requirement)	9	1		
+		End-to-End Encryption (E2EE) Support	1	0		
+		Key Management	1	0		
+		Message Storage Security				
