@@ -96,4 +96,28 @@ OAuth authentication for external calendars	OAuth authentication for external ca
 End-to-end encryption for two-way messaging	End-to-end encryption for two-way messaging	Encryption in Transit (Basic Requirement)	9	1		
 		End-to-End Encryption (E2EE) Support	1	0		
 		Key Management	1	0		
-		Message Storage Security				
+		Message Storage Security	1	0		
+		Authentication & Integrity	3	1		
+		External Messaging Integrations	2	0		
+Access control for job photos and client communication logs.md	Access control for job photos and client communication logs.md	 Access Permissions & Roles	7	1		
+		Storage & Data Protection	4	1		
+		Consent & Data Retention	3	1		
+		Access Auditing & Logging	5	1		
+		Sharing & Export Controls	3	1		
+Access control for job photos and client communication logs	Access control for job photos and client communication logs	Role-Based Access Permissions	7	1		
+		Secure Storage & File Protection	4	1		
+		Consent & Data Retention	3	1		
+		Access Logging & Audit Trails	5	1		
+		 Sharing Controls & Export Security	3	1		
+"Audit trail for bookings, rewards, and messaging"	"Audit trail for bookings, rewards, and messaging"	Core Audit Logging Framework	5	1		
+		Booking Audit Coverage	7	1		
+		Rewards & Incentives Audit Coverage	1	0		
+		Messaging Audit Coverage	3	1		
+		Security & Access to Logs	4	1		
+		Admin & Reporting Interface	4	1		
+"Privacy notice covering bookings, photos, and messages"	"Privacy notice covering bookings, photos, and messages"	Privacy Notice Availability	1	0		
+		Information Disclosure Requirements	1	0		
+		User Rights & Controls	2	0		
+		Technical Transparency	1	0		
+		Consent & Record Keeping	2	0		
+		Display & Admin Configuration	3	1		
